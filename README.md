@@ -10,7 +10,4 @@
 </P>
 
 
-<div>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dkfkqldk97&&show_icons=true&theme=bear)]
-</div>
 
